@@ -1,7 +1,7 @@
 Complex-System-Analysis
 =======================
 
-Few Examples showing the research going on in the field of "Complex systems research".
+Very basic complex system example. Contains activities performed on a cellular automaton.
 
 When we are dealing with real life applications, we often have to design tools which are in accordance to the needs of
 implementation in real life and this calls for one very important aspect i.e. Cost.
